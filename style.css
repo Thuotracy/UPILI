@@ -125,11 +125,6 @@ li{
 .theory_container {
     background-color: rgb(250, 241, 226);
     min-height: 40vh; 
-    /* display: flex;
-    align-items: center; 
-    justify-content: center;  */
-    /* padding: 20px;  */
-    /* margin-bottom: 5%; */
 }
 
 .theory_container h1{
@@ -164,8 +159,6 @@ li{
 .theory_container .list-group{
     padding: 1% 1% 10% 1%;
 }
-
-
 
 .support{
     background-color: rgb(240, 249, 252);
