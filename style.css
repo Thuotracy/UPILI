@@ -155,7 +155,7 @@ li{
     font-size: 18px;
     font-weight: bold;
     text-align: center;
-    line-height: 80px; /* Updated to match the new height */
+    line-height: 80px; 
     position: relative;
     clip-path: polygon(90% 22%, 100% 48%, 90% 78%, 0 78%, 0 50%, 0 21%); /* Keep polygon the same */
     padding-top: 20px; /* Optional: Add padding */
