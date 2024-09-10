@@ -212,10 +212,6 @@ li{
 .theory_container {
     background-color: rgb(250, 241, 226);
     min-height: 55vh; 
-    /* display: flex;
-    align-items: center; 
-    justify-content: center;  */
-    /* padding: 20px;  */
     margin-top: -2.9%;
 }
 
