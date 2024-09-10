@@ -170,10 +170,6 @@ li{
 .support{
     background-color: rgb(240, 249, 252);
     min-height: 25.4vh; 
-    /* display: flex;
-    align-items: center; 
-    justify-content: center;  */
-    /* padding: 20px;  */
     margin-bottom: -3%
 }
 
