@@ -158,7 +158,7 @@ li{
     line-height: 80px; 
     position: relative;
     clip-path: polygon(90% 22%, 100% 48%, 90% 78%, 0 78%, 0 50%, 0 21%); 
-    padding-top: 20px; /* Optional: Add padding */
+    padding-top: 20px; 
 }
 
 .theory_container .list-group{
