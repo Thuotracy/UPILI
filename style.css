@@ -149,8 +149,8 @@ li{
 .theory_container .card-header{
     margin-top: -10.7%;
     width: 283px;
-    height: 120px; /* Increased height */
-    background-color: green; /* Bright green background */
+    height: 120px; 
+    background-color: green;
     color: black;
     font-size: 18px;
     font-weight: bold;
