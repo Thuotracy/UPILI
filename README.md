@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a website for a company that offers ERP Solutions that unify your business operations, from finance to customer management. 
+This is a website for a foundation that addresses this pervasive mental health challenge by providing Counselors with Disabilities to support secondary school Students with Disabilities, their families and communities.
 
 ## Technologies Used
 * HTML
