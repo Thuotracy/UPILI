@@ -1,5 +1,4 @@
 ## UPILI
-
 ## Description
 
 This is a website for a foundation that addresses this pervasive mental health challenge by providing Counselors with Disabilities to support secondary school Students with Disabilities, their families and communities.
